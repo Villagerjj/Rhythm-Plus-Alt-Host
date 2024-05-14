@@ -12,7 +12,7 @@ Rhythm plus is a web-based vertical scrolling rhythm game (VSRG), you can make, 
 
 ## Gameplay
 
-[**Play Now**](https://rhythm-plus.com/)
+[**Play Now (Original)**](https://rhythm-plus.com/)
 
 ### Title Screen
 
